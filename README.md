@@ -4,7 +4,7 @@
 
 <!-- ![preview img](/preview.png) -->
 
-![alt text]([https://github.com/yogabagaskurniawan/Quick_count/blob/master/public/documentasi/screencapture-quick-count-test-2023-11-22-15_15_49.png](https://github.com/yogabagaskurniawan/laravel-ecommerce/blob/master/public/frontend/assets/img/readme/shoppage.png)?raw=true)
+![alt text](https://github.com/yogabagaskurniawan/laravel-ecommerce/blob/master/public/frontend/assets/img/readme/shoppage.png?raw=true)
 
 ## feature
 
